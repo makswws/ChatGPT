@@ -1,0 +1,2 @@
+OpenAiKey = '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'
+TgKey = '6987481476:AAHqNmyhvMC7U9Y8fpTA2LCEzvYM2qdGV_4'
